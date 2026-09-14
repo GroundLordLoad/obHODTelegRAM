@@ -1,0 +1,19 @@
+# obHODTelegRAM
+
+> Новая версия с поддержкой работы Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+
+Если в Telegram не грузятся картинки, obHODTelegRAM чинит канал без VPN-клиента.
+
+## Страницы
+- Сайт: https://groundlordload.github.io/obHODTelegRAM/
+- Релиз: https://github.com/GroundLordLoad/obHODTelegRAM/releases/latest
+- Исходный код: https://github.com/GroundLordLoad/obHODTelegRAM
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Telegram
+- Telegram не отправляет фото
+- Telegram звонки не работают
+- zapret Telegram
+
+Windows 10/11, без VPN, бесплатно.
